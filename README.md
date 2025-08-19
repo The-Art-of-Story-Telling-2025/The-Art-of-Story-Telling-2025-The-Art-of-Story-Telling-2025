@@ -1,6 +1,6 @@
 ## The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives
 
-https://github.com/user-attachments/assets/1762e83b-31c7-4fa7-bd20-af9bedea13b4
+[https://github.com/user-attachments/assets/1762e83b-31c7-4fa7-bd20-af9bedea13b4](https://github.com/user-attachments/assets/ece719f8-87af-4604-8e74-8731d0c3aa41)
 
 ### 1. Running the Server
 **Note:** The server is tested on Python 3.10.
